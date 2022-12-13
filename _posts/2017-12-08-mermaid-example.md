@@ -2,7 +2,7 @@
 layout: post
 title: Mermaid example
 categories: example
-tags: [mermaid]
+tags: [主题自带例子]
 ---
 
 ### 1. Pie chart

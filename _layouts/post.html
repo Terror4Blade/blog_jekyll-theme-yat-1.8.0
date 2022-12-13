@@ -26,8 +26,9 @@ sidebar:
     {%- include views/article.html -%}
 
     {%- assign result = hidden | where_exp: "item", "item == 'navigator'" -%}
-    {%- if result.size == 0 -%}
-    <div class="post-nav">
+    {%- if result.size == 0 -%}	
+	    
+	<div class="post-nav">
       {%- if page.previous -%}
         <a class="previous" href="{{ page.previous.url | relative_url }}" title="{{
           page.previous.title | escape }}">{{ page.previous.title | escape | truncatewords: 6 }}</a>

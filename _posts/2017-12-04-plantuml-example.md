@@ -2,7 +2,7 @@
 layout: post
 title: Plantuml example
 categories: example
-tags: [plantuml]
+tags: [主题自带例子]
 ---
 
 ## My First PlantUML

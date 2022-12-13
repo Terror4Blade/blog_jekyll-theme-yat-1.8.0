@@ -3,7 +3,7 @@ layout: post
 title: An exhibit of Markdown
 subtitle: Each post also has a subtitle
 categories: markdown
-tags: [example, markdown]
+tags: [主题自带例子]
 ---
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
